@@ -27,7 +27,6 @@ const message = [
     "Peço sua paciência enquanto conserto isso.",
     "Espero que possamos seguir em frente.",
     "Sei que posso fazer melhor, e vou provar isso.",
-    "Muito obrigado."
 ]
 
 
